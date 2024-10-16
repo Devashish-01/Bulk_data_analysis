@@ -50,7 +50,7 @@ You will need to install the following libraries:
    After installing the required libraries, run the application with the following command:
 
    ```bash
-   streamlit run app.py
+   streamlit run Bulk_Data_Analysis.py
    ```
 
 4. **Access the app:**
