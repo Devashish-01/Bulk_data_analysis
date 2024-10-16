@@ -74,11 +74,11 @@ The uploaded CSV file must contain the following columns:
 
 ## Example CSV Data
 
-| Security Name  | Quantity Traded | Buy / Sell |
-|----------------|-----------------|------------|
-| ABC Corp       | 1,000           | Buy        |
-| XYZ Inc        | 500             | Sell       |
-| ABC Corp       | 300             | Sell       |
+| Security Name  | Quantity Traded |
+|----------------|-----------------|
+| ABC Corp       | 1,000           |
+| XYZ Inc        | 500             |
+| ABC Corp       | 300             |
 
 ## License
 
