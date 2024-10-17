@@ -8,6 +8,9 @@ This is a Streamlit web application designed to process bulk data from CSV files
 - **Data Processing**: The app processes the CSV to calculate the total quantities traded for each security based on buying and selling transactions.
 - **Download Processed Data**: Users can download the processed data as a CSV file.
 
+you can download bulk_data.csv file from website - https://www.nseindia.com/report-detail/display-bulk-and-block-deals
+or we have an example csv file also in our repo you can use it for example purpose.
+
 ## Prerequisites
 
 Make sure you have the following installed:
@@ -79,10 +82,6 @@ The uploaded CSV file must contain the following columns:
 | ABC Corp       | 1,000           |
 | XYZ Inc        | 500             |
 | ABC Corp       | 300             |
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 
